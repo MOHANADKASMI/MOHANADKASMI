@@ -25,7 +25,7 @@
 <td width="50%" align="center"><a href="https://www.mohanadkasmi.com/pos"><img src="https://static.wixstatic.com/media/cc287c_c52f1a20dd96432b86b764c0ecd86b52~mv2.jpg/v1/fill/w_938,h_762,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/cc287c_c52f1a20dd96432b86b764c0ecd86b52~mv2.jpg" width="420" alt="POS & Trade Show — portfolio by Mohanad Kasmi" /><br /><strong>POS & Trade Show</strong></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://www.mohanadkasmi.com/manufacturing"><img src="https://static.wixstatic.com/media/cc287c_aa31599730ed4233819ad1b6bbfcf7df~mv2_d_1713_1240_s_2.gif" width="420" alt="Creative — portfolio by Mohanad Kasmi" /><br /><strong>Creative</strong></a></td>
+<td width="50%" align="center"><a href="https://www.mohanadkasmi.com/manufacturing"><h3>Creative concepts</h3>Campaign ideas, visual storytelling<br />and animation.<br /><br />Explore the original work →<br /><br /><strong>Creative</strong></a></td>
 <td width="50%" align="center"><a href="https://www.mohanadkasmi.com/digital"><img src="https://static.wixstatic.com/media/cc287c_db5d3f6f15b8459d9b37e38c054c2517~mv2.png/v1/fill/w_938,h_762,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/cc287c_db5d3f6f15b8459d9b37e38c054c2517~mv2.png" width="420" alt="Digital — portfolio by Mohanad Kasmi" /><br /><strong>Digital</strong></a></td>
 </tr>
 </table>
